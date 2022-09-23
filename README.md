@@ -1,2 +1,3 @@
-# udpanalyzer
-Simple tool to analyze UDP connectivity to a server
+# udpstats
+
+Simple CLI tool to analyze the communication properties to a UDP Server.
